@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...by abhisheakjakkula975@gmail.com
+- 📫 U can reach me ...by abhisheakjakkula975@gmail.com
 - 😄 Pronouns: Mr.Abhi
 - ⚡ Fun fact: Not needed
 
