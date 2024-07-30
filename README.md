@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in tech 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaboration
 - 📫 U can reach me ...by abhisheakjakkula975@gmail.com
 - 😄 Pronouns: Mr.Abhi
 - ⚡ Fun fact: Not needed
