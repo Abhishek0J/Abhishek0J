@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek0J
+- 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in tech 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
