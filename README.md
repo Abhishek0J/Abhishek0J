@@ -2,10 +2,11 @@
 <h3 align="center">Tech Enthusiast</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="abhishek0j" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0j&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0j" /> </p>
-
-- 📫 How to reach me **abhisheakjakkula975@gmail.com**
-
-- ⚡ Fun fact **Chin tapa ka tum tum**
+- 👋 I'm Abhishek
+- ⚡ welome to my github profile
+- ⚡ Computer Science Undergraduate
+- ⚡Passoinate aboution developing
+- 📫 you can reach me **abhisheakjakkula975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
