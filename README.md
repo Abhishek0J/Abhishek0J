@@ -29,6 +29,8 @@ Description: Smart parking pre booking system.
 
 ### Project 3: [Resume Builder using LWC](https://github.com/Abhishek0J/project3)
 Deacription: Resume Builder using Ligntning Web Components.
+### Project 3: [Task Management System(https://github.com/Abhishek0J/project3)
+Deacription: a project that manages user tasks
 
 
  <h3 align="left">🌟Github Stats:</ul></h3>
