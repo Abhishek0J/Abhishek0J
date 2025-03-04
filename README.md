@@ -31,8 +31,6 @@ Description: Smart parking pre booking system.
 Description: Resume Builder using Ligntning Web Components.
 
 
- <h3 align="left">🌟Github Stats:</ul></h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek0j" alt="abhishek0j" /></p>
 
 
 
