@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Abhishek welcome's you</h1>
+<h1 align="center">Hello I'm Abhishek </h1>
 <h3 align="center">Tech Enthusiast</h3>
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="abhishek0j" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0j&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0j" /> </p>
