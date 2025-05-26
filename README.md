@@ -24,7 +24,8 @@
 ### Project 1: [Sales Pipeline Management System](https://github.com/Abhishek0J/projectt3)
 Description: Sales Pepeline Automation management using Salesofrce Administaration and Development.
 
-### Project 2: [Edutech Course Management Platform using Salesforce EDA](https://github.com/Abhishek0J/project2)
+### Project 2: [Edutech Course Management Platform using Salesforce EDA](https://github.com/Abhishek0J/Edutech
+)
 Description: Smart parking pre booking system.
 
 ### Project 3: [Resume Builder using LWC](https://github.com/Abhishek0J/project3)
