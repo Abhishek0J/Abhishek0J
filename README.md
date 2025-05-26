@@ -25,7 +25,8 @@
 Description: Sales Pepeline Automation management using Salesofrce Administaration and Development.
 
 ### Project 2: [Edutech Course Management Platform using Salesforce EDA](https://github.com/Abhishek0J/Edutech)
-Description: Smart parking pre booking system.
+Description: This project is a cloud-based online course management system (similar to Udemy), built using Salesforce's Education Data Architecture (EDA). It is designed to manage course offerings, enrollments, and learner progress within an educational institution using Salesforce CRM capabilities.
+
 
 ### Project 3: [Resume Builder using LWC](https://github.com/Abhishek0J/project3)
 Description: Resume Builder using Ligntning Web Components.
