@@ -21,16 +21,13 @@
 
 <h3 align="left">🌟Featured Projects:</h3> 
 
-### Project 1: [Hospital Web Portal](https://github.com/Abhishek0J/project1)
-Description: Created a web portal for Hospital.
-
-### Project 2: [Smart Parking Portal](https://github.com/Abhishek0J/project2)
-Description: Smart parking pre booking system.
-
-### Project 3: [Sales Pipeline Management System](https://github.com/Abhishek0J/projectt3)
+### Project 1: [Sales Pipeline Management System](https://github.com/Abhishek0J/projectt3)
 Description: Sales Pepeline Automation management using Salesofrce Administaration and Development.
 
-### Project 4: [Resume Builder using LWC](https://github.com/Abhishek0J/project3)
+### Project 2: [Edutech Course Management Platform using Salesforce EDA](https://github.com/Abhishek0J/project2)
+Description: Smart parking pre booking system.
+
+### Project 3: [Resume Builder using LWC](https://github.com/Abhishek0J/project3)
 Description: Resume Builder using Ligntning Web Components.
 
 
